@@ -46,7 +46,12 @@ The goal of this project is to build a comprehensive, multi-page Power BI report
 
 🔑 Key Insights Revealed: Highlighted crucial metrics like Gross Margin, Net Profit, YTD, and YTG across essential business areas.
 
-📊 Five distinct dashboards focused on essential business areas: Sales, Finance, Marketing, Supply Chain, and Executive view.
+📊 Five distinct dashboards cover the following essential business areas:
+- Finance View
+- Sales View
+- Marketing View
+- Supply Chain View
+- Executive View
  
 ### Business Impact
 The BI 360 dashboard provided AtliQ Technologies with a comprehensive business solution by consolidating scattered data into a unified platform, enabling enhanced financial management, improved sales performance, optimized supply chain operations, and effective marketing strategies.
