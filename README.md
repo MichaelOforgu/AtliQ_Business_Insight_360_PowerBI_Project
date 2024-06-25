@@ -56,4 +56,4 @@ It offered detailed financial reports for better budget management, identified c
 This empowered AtliQ Technologies to make informed, data-driven decisions, resulting in improved operational efficiency, cost reduction, and revenue growth.
 
 Take a look at the live report and share your feedback, especially any suggestions on how to make it even more impressive.
-- Live report: https://lnkd.in/dSzfnzZ7
+- Live report: https://project.novypro.com/4TqKqH
