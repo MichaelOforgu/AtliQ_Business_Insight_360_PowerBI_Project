@@ -1,4 +1,4 @@
-# AtliQ_Business_Insight_360_PowerBI_Project
+# Business_Insight_360_PowerBI_Project
 
 ### Company Overview
 AtliQ Technologies is a manufacturer and supplier of computer hardware and peripherals, operating across different regions. The company sells products in various segments including accessories, desktops, networking, notebooks, peripherals, and storage. AtliQ employs both brick-and-mortar and e-commerce sales channels, distributing their products through retailers, direct sales, and distributors.
@@ -62,3 +62,5 @@ This empowered AtliQ Technologies to make informed, data-driven decisions, resul
 
 Take a look at the live report and share your feedback, especially any suggestions on how to make it even more impressive.
 - Live report: https://project.novypro.com/4TqKqH
+
+<img width="1439" alt="BI360_Finance_view" src="https://github.com/user-attachments/assets/05126032-2412-40b8-9a81-a3c4e5524dbf">
